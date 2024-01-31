@@ -1,0 +1,9 @@
+name = "empiricanew"
+
+[tajriba.auth]
+srtoken = "pWnGOSuZrEmpguuf"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "aCaunMqW"
